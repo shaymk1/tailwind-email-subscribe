@@ -1,0 +1,1 @@
+# tailwind-email-subscribe
